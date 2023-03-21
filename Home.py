@@ -7,7 +7,7 @@ st.set_page_config(layout="wide")
 col1, col2 = st.columns([1,2])
 
 with col1:
-    st.image("image/picture.png",width=450)
+    st.image("images/picture.png",width=450)
 
 with col2:
         st.title("Anes Suhonjic")
@@ -28,7 +28,7 @@ with col3:
     for index, row in df[:3].iterrows():
         st.header(row["title"])
         st.write(row["description"])
-        st.image("image/" + row["image"])
+        st.image("images/" + row["image"])
         st.write(f"[Source Code]({row['url']})")
 
 
@@ -36,5 +36,5 @@ with col4:
     for index, row in df[3:].iterrows():
         st.header(row["title"])
         st.write(row["description"])
-        st.image("image/" + row["image"])
+        st.image("images/" + row["image"])
         st.write(f"[Source Code]({row['url']})")
