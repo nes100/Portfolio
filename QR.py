@@ -6,7 +6,7 @@ qr = qrcode.QRCode(
     border=4,
 )
 
-data = "https://nes100-my-porfolio-app-home-czwd4x.streamlit.app/"
+data = "https://nes100-portfolio-home-8y32pd.streamlit.app/"
 qr.add_data(data)
 qr.make(fit=True)
 
