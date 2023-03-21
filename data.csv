@@ -1,0 +1,9 @@
+title;description;url;image
+Todo App;A distraction-free web app to help you focus on creating and completing tasks.;https://github.com/nes100/Todo-List.git;1.png
+Portfolio Website;A website built entirely in Python to showcase coding projects and apps.;https://pythonhow.com;2.png
+Hangman;A guessing game where player trys to guess a randomly generated word within a certain number of guesses.;https://github.com/nes100/Hangman.git;30.png
+PDF Templates;A script that generates PDF templates of multiple pages given some predefined guidelines.;https://github.com/nes100/PDF-Templates.git;3.png
+PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices.;https://github.com/nes100/PDF-Invoices.git;4.png
+News-API-Email;A website that gets data on a particular topic from a news API and sends it by email.;https://github.com/nes100/News-API.git;6.png
+
+

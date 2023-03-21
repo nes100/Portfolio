@@ -1,0 +1,8 @@
+Hi, my name is Anes Suhonjic. I am a graduate from the University of Missouri St. Louis.
+I hold a bachelors degree in business administration, an undergraduate certification in cybersecurity,
+and a CompTia Security plus certification. I am passionate about technology and computers.
+I enjoy learning new things and I am constantly working on expanding my knowledge and improving myself.
+I have created this website to showcase some of the things I have worked on and created with Python.
+Thank you for taking the time to look at my porfolio. If you have any questions please feel free to
+contact me.
+
