@@ -6,5 +6,5 @@ PDF Templates;A script that generates PDF templates of multiple pages given some
 PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices.;https://github.com/nes100/PDF-Invoices.git;4.png
 News-API-Email;A website that gets data on a particular topic from a news API and sends it by email.;https://github.com/nes100/News-API.git;6.png
 Cryptography App;A simple cryptography app that allows a user to encrypt or decrypt a file using the Fernet symmetric encryption algorithm;https://github.com/nes100/Cryptography-app.git;35.png
-Web Scraper;A program that checks a music band's website and sends an email when there are new tours.;https://pythonhow.com;8.png
+Web Scraper;A program that checks a music band's website and sends an email when there are new tours.;https://github.com/nes100/Web-Scraper.git;8.png
 
